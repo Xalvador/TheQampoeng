@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="umur">
+        <item>12 Tahun</item>
+        <item>13 Tahun</item>
+        <item>14 Tahun</item>
+        <item>15 Tahun</item>
+    </string-array>
+</resources>
