@@ -134,7 +134,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:checked="false"
-                android:text="Voli" />
+                android:text="Takraw" />
 
         </LinearLayout>
         //Lomba yang ingin diikuti
@@ -174,11 +174,11 @@
 
         <Button
             android:id="@+id/buttonOK"
-            android:layout_width="match_parent"
+            android:layout_width="196dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="9dp"
-            android:text="Kumpulkan"></Button>
+            android:text="Submit"></Button>
         //Hasil Nama
 
         <TextView
